@@ -1,7 +1,5 @@
 - 👋 Hi, I’m Arjun Omanakuttan
-- 👀 I’m interested in Data Science 
-- 🌱 I’m currently learning 
-- 💞️ I’m looking to collaborate on ...
+- 👀 I’m interested in Data Science and Meachine learning
 - 📫 How to reach me arjunomanakuttan52@gmail.com
 
 <!---
